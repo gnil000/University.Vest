@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "University.Vest", "University.Osipan\University.Vest.csproj", "{9EDB5A1C-1274-4FCB-8439-CA9B7E43441D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "University.Vest", "University.Vest\University.Vest.csproj", "{9EDB5A1C-1274-4FCB-8439-CA9B7E43441D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encryptor.Vest", "Encryptor.Vest\Encryptor.Vest.csproj", "{812D7A6A-71DD-40AC-89C1-80CDABD26AC8}"
 EndProject
