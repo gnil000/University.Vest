@@ -1,1 +1,1 @@
-# University.Osipan
+# University.Vest
